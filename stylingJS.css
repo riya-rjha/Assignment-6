@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px solid goldenrod;
+    color: black;
+    background-color: aqua;
+}
+
+button{
+    cursor: pointer;
+    background-color: black;
+    color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+    border: 4px solid rgb(159, 13, 191);
+}
+
+#text{
+    font-family: 'Merriweather', serif;  
+    border: 3px solid #e27f7f;
+    background-color: rgb(126, 255, 71);
+    font-size: larger;
+    text-decoration: underline;
+}
